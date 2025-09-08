@@ -15,7 +15,7 @@ const texto2 = "alura";
 console.log(texto1 === texto2); //case sensitive
 
 
-
+/*
 // No terminal
 //git init - para criar um novo repositório vazio dentro dessa pasta
 //git status - mostra os arquivos (em vermelho) que ainda não foram enviados na nuvem
