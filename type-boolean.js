@@ -25,3 +25,12 @@ console.log(texto1 === texto2); //case sensitive
 // pode dar um git status para verificar
 //git commit -m "exemplos da aula 1"
 //git push origin master
+
+/*git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rodrisiega/2tds-fundamentos-js.git
+git push -u origin main
+
+*/
