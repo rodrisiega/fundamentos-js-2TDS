@@ -24,7 +24,7 @@ console.log(texto1 === texto2); //case sensitive
 //git add .  - para adicionar todos os arquivos no pack que será mandado para a nuvem
 // pode dar um git status para verificar
 //git commit -m "exemplos da aula 1"
-//git push origin master
+//git push origin main
 
 /*git init
 git add README.md
